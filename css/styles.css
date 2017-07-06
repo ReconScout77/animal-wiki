@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+}
+
+#pandaInfo, #axolotlInfo, #narwhalInfo {
+  display: none;
+}
